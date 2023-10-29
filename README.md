@@ -20,7 +20,6 @@ This To-Do List App is built using cutting-edge technology:
 
 - **React**: The app is developed using React, a popular JavaScript library for building user interfaces. React provides a fast and interactive user experience.
 
-- **React Icons**: Icons for completing, editing, and deleting tasks are implemented using the "react-icons" library, enhancing the app's user interface.
+- **React Icons**: Icons for completing, editing, and deleting tasks are implemented using the "react-icons" library.
 
 
-Explore this To-Do List App to manage your tasks efficiently and experience the convenience of these feature-rich task management tools.
